@@ -15,7 +15,7 @@ This is kind of meta but these are interesting collections of data sources on th
 - [Seeing Like a Bike](https://github.com/cledantec/Cycle-Atlanta-SLaB)
 
 ## Bike Visualizations
--[6km around Richmond]https://www.cyclinganalytics.com/ride/918268615752
+-[6km around Richmond](https://www.cyclinganalytics.com/ride/918268615752)
 
 ## Papers on bikes and mobility
 - Goodwin, Sarah, Sebastian Meier, Lyn Bartram, Alex Godwin, and D Marian. 2021. “Unravelling the Human Perspective and Considerations for Urban Data Visualization” 2016: 121–25. [https://doi.org/10.1109/PacificVis52677.2021.00024](https://doi.org/10.1109/PacificVis52677.2021.00024).
