@@ -1,4 +1,4 @@
-# KInDbike data sources
+# KInD bike data sources
 This is a list of (e)bike data sources found by members of the [KInD research group](https://kind.io.tudelft.nl/) at the TU Delft
 
 If you want to add a data source you can create an issue or make a pull request.
