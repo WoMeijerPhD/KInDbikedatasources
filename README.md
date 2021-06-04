@@ -13,6 +13,7 @@ This is kind of meta but these are interesting collections of data sources on th
 
 ## Specific Data Sets
 - [Seeing Like a Bike](https://github.com/cledantec/Cycle-Atlanta-SLaB)
+- [Valley Bike Dataset](http://traces.cs.umass.edu/index.php/Transportation/Transportation)
 
 ## Bike Visualizations
 - [6km around Richmond](https://www.cyclinganalytics.com/ride/918268615752)
